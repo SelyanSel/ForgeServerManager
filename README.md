@@ -16,6 +16,8 @@
     <br />
     <strong>⚠️THIS PROJECT IS STILL IN ALPHA / DEVELOPEMENT⚠️</strong>
     <br />
+    <strong>⚠️YOU CAN, FOR NOW, ONLY CREATE 1.18.2 FORGE SERVERS⚠️</strong>
+    <br />
     <br />
         <br />
     <a href="https://github.com/Xp3rtA/ForgeServerManager/issues">Report Bug</a>
