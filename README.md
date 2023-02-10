@@ -2,7 +2,7 @@
 <a name="readme-top"></a>
 <br />
 <div align="center">
-  <a href="https://github.com/Xp3rtA/ForgeServerManager">
+  <a href="https://github.com/dinercake/ForgeServerManager">
     <img src="logo.png" alt="Logo" width="200" height="200">
   </a>
 
@@ -20,9 +20,9 @@
     <br />
     <br />
         <br />
-    <a href="https://github.com/Xp3rtA/ForgeServerManager/issues">Report Bug</a>
+    <a href="https://github.com/dinercake/ForgeServerManager/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Xp3rtA/ForgeServerManager/issues">Request Feature</a>
+    <a href="https://github.com/dinercake/ForgeServerManager/issues">Request Feature</a>
   </p>
 </div>
 
@@ -61,7 +61,7 @@ Visual Studio 2022 is recommended, but you can use older versions.
 - [x] Easy server properties edit
 - [x] Launch server on the go
 
-See the [open issues](https://github.com/Xp3rtA/ForgeServerManager/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/dinercake/ForgeServerManager/issues) for a full list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -89,6 +89,6 @@ You are authorized to modify the program and redistribute it, but **please give 
 
 Twitter - [@KAMIKAZ_OFF_](https://twitter.com/KAMIKAZ_OFF_)
 
-Project Link: [https://github.com/Xp3rtA/ForgeServerManager/](https://github.com/Xp3rtA/ForgeServerManager/)
+Project Link: [https://github.com/dinercake/ForgeServerManager/](https://github.com/Xp3rtA/ForgeServerManager/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
